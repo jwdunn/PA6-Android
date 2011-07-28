@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Car Memory!</string>
+    <string name="app_name">MemoryGame</string>
+     <string name="play">Play Memory</string>
+      <string name="about">Instructions</string>
+       <string name="about_text">Welcome to the car memory game. match the car makes with the models</string>
+       <string name="Win">Congratulations you won!</string>
+</resources>
